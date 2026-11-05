@@ -1,0 +1,1 @@
+[[apt-dpkgd]] is a daemon that carries out install requests from dpkg and provides status updates over a varlink socket.

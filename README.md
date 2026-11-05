@@ -1,0 +1,1 @@
+These are my thoughts and ongoing journal, started [[2026-11-05]].

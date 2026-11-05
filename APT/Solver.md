@@ -1,0 +1,1 @@
+The APT solver is sort of based on [[MiniSat.pdf]] .  It started off as its entirely own thing but has morphed more and more into MiniSat.
